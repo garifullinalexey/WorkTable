@@ -1,0 +1,40 @@
+.deps-class{
+    width: 25%;
+    float:left;
+    display: inline-block;
+    font-size: small;
+}
+
+.table-class{
+    width: 74%;
+    float: right;
+    display: inline-block;
+    font-size: small;
+    overflow-x: scroll;
+    overflow-y: visible;
+}
+
+.buttons-class{
+    display: block;
+    float: right;
+    width: 100%;
+    font-size: small;
+}
+
+.container-class{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button{
+    font-size: small;
+}
+th{
+    min-width: 25px;
+    text-align: center;
+    position: relative;
+}
+
+td{
+    min-width: 25px;
+}
